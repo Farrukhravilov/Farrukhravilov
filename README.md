@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td>🔥 <b>Nuxt js</b></td>
-    <td><a href="https://watches-tau.vercel/app">Ссылка на проект</a></td>
+    <td><a href="https://watches-tau.vercel.app">Ссылка на проект</a></td>
   </tr>
   <tr>
     <td>🌟 <b>Nuxt.js</b></td>
